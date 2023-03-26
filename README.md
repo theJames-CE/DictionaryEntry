@@ -1,6 +1,8 @@
-A Simple HTML Dictionary Entry
+Objectives 
 
-Directions - Recreate the image below using HTML
+Practice writing HTML documents
+Practice using Text, Image, and List HTML tags
+Using what we've learned about HTML tags recreate the website displayed below!
 
 ![image](https://user-images.githubusercontent.com/124546382/227750950-31d239a4-9f27-4019-bea5-17f9941c32df.png)
 
